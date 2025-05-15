@@ -1,9 +1,9 @@
 #$ TITLE: Default DM Modes and Adjustment settings
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: MODES
-#$ STATUS: OFFICIAL
+#$ STATUS: COMMUNITY
 #$ KEYWORDS: defaults, reset, mode, modes, adjustments, aux, switch
-#$ AUTHOR: Betaflight
+#$ AUTHOR: Danny Mills
 #$ DESCRIPTION: Resets modes and adjustment ranges to 4.5 defaults
 
 # aux
