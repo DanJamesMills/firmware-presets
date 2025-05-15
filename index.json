@@ -166,6 +166,7 @@
       "Chris Rosser",
       "ctzsnooze",
       "Daniel Appel / Tehllama",
+      "Danny Mills",
       "Davide FPV (Davide Angeletti)",
       "Directory",
       "dmak",
@@ -6500,13 +6501,13 @@
     },
     {
       "fullPath": "presets/4.5/modes/defaults.txt",
-      "hash": "fdf75ebef8f515ff0f2394e2db0c3515fdbda6176d535104ffc41cfbc421c0f0",
+      "hash": "59c685554b4439d2ffb9dc1f82c8d9e767789842f37086fd569463ad12a00a41",
       "title": "Default DM Modes and Adjustment settings",
       "firmware_version": [
         "4.5"
       ],
       "category": "MODES",
-      "status": "OFFICIAL",
+      "status": "COMMUNITY",
       "keywords": [
         "defaults",
         "reset",
@@ -6516,7 +6517,7 @@
         "aux",
         "switch"
       ],
-      "author": "Betaflight",
+      "author": "Danny Mills",
       "priority": 0
     },
     {
